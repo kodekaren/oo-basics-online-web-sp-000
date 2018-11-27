@@ -19,4 +19,7 @@ class Book
     @page_count
   end
   attr_accessor :genre
+def turn_page
 end
+end
+ 
